@@ -1,0 +1,26 @@
+{
+    "name": "mimeparse",
+    "description": "Basic functions for handling mime-types.",
+    "version": "0.1.2",
+    "homepage": "http://github.com/kriskowal/mimeparse/",
+    "contributors": [
+        "Joe Gregario",
+        "J. Chris Anderson <jchris@apache.org>",
+        "Kris Kowal <kris@cixar.com> (http://github.com/kriskowal/)"
+    ],
+    "bugs": {
+        "mail": "kris@cixar.com",
+        "web": "http://github.com/kriskowal/mimeparse/issues"
+    },
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": "http://github.com/kriskowal/mimeparse/raw/master/LICENSE"
+        }
+    ],
+    "repository": {
+        "type": "git",
+        "url": "http://github.com/kriskowal/mimeparse.git"
+    },
+    "main": "mimeparse.js"
+}
