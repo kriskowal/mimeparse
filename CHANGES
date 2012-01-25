@@ -1,3 +1,7 @@
+0.1.4
+
+ * Fixed several coding style issues, as suggested by JSHint
+   (e.g. using === instead of ==).
 
 0.1.3
 
