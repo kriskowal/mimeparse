@@ -26,6 +26,10 @@ Installation
     npm install mimeparse
 
 
+    via Bower:
+    
+    bower install mimeparse
+
 The API
 =======
 
